@@ -1,4 +1,4 @@
-<h2 align="left">☠️ Hey Mugiwara ya! I'm joathecreator, hunting bugs and bounties. ⚓💻</h2>
+<h2 align="left">☠️I'm joathecreator, hunting bugs and bounties. ⚓💻</h2>
 
 ###
 
