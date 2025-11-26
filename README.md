@@ -1,4 +1,4 @@
-<h2 align="left">I'm João Davi 💻</h2>
+<h2 align="left">I'm João Davi 💻 (JottaD)</h2>
 
 ###
 
