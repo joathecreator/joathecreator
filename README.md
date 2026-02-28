@@ -1,3 +1,7 @@
+# 👋 Hey there! I'm João Davi.
+ Hi! I'm a Computer Science student passionate about technology since childhood. I’ve always been curious about how things work, which led me to pursue software development, artificial intelligence, and cloud computing. I’m constantly improving my skills through projects and content creation — always curious, always learning.
+
+
 # 💫 About Me:
 🎓 Computer Science student passionate about technology, programming, and problem-solving.<br>💻 Interested in software development, artificial intelligence, and cloud computing.<br>🚀 Always learning, building projects, and growing as a developer.<br>🎮 Fun fact: I enjoy creating content for YouTube, playing video games, and watching anime in my free time.
 
